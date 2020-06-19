@@ -2,8 +2,9 @@
     "name": "rest-test",
     "main": "server.js",
     "dependencies": {
-        "body-parser": "^1.17.2",
-        "express": "^4.15.3",
-        "minimatch": "^3.0.4"
+        "body-parser": "1.18.3",
+        "express": "4.16.4",
+        "formidable": "1.2.1",
+        "minimatch": "3.0.4"
     }
 }
